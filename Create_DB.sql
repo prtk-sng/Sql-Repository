@@ -1,6 +1,3 @@
---PRACTICAL DATABASE CONCEPTS MILESTONE 1
---Prateek Kumar Singh, s3890089
-
 
 
 create table Students (
